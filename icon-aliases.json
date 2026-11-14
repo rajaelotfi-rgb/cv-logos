@@ -1,0 +1,22 @@
+{
+  "gcp": "googlecloud",
+  "google-cloud-platform": "googlecloud",
+  "google-cloud": "googlecloud",
+  "gcs": "googlecloudstorage",
+  "bigquery": "googlebigquery",
+  "palantir-foundry": "palantir",
+  "foundry": "palantir",
+  "sklearn": "scikitlearn",
+  "scikit-learn": "scikitlearn",
+  "postgres": "postgresql",
+  "mongo": "mongodb",
+  "k8s": "kubernetes",
+  "js": "javascript",
+  "ts": "typescript",
+  "node": "nodejs",
+  "tf": "tensorflow",
+  "sql-server": "microsoftsqlserver",
+  "ms-sql-server": "microsoftsqlserver",
+  "t-sql": "microsoftsqlserver",
+  "hugging-face": "huggingface"
+}

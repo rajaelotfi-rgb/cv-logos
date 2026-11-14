@@ -1,0 +1,20 @@
+{
+  "pyspark": "spark",
+  "apache-spark": "spark",
+  "spark-sql": "spark",
+  "microsoft-azure": "azure",
+  "ms-azure": "azure",
+  "azure-data-factory": "azure",
+  "adf": "azure",
+  "azure-synapse": "azure",
+  "synapse": "azure",
+  "azure-databricks": "databricks",
+  "amazon-web-services": "aws",
+  "amazon-s3": "aws",
+  "aws-glue": "aws",
+  "apache-airflow": "airflow",
+  "apache-kafka": "kafka",
+  "data-build-tool": "dbt",
+  "azure-devops-pipelines": "azure-devops",
+  "ado": "azure-devops"
+}
